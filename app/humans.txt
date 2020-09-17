@@ -1,0 +1,16 @@
+# humanstxt.org/
+# The humans responsible & technology colophon
+
+# TEAM
+
+    Eric Phetteplace -- creator -- @phette23
+
+# THANKS
+
+    HTML5 Boilerplate
+    KnightLab TimelineJS3
+
+# TECHNOLOGY COLOPHON
+
+    CSS3, HTML5
+    Apache Server Configs, jQuery, Modernizr, Normalize.css

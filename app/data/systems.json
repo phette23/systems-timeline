@@ -1,0 +1,220 @@
+{
+    "title": {
+        "media": {
+            "url": "https://vault.cca.edu/file/7900a25c-3a1e-4941-8955-9eef2bf8b837/1/191023002.jpg",
+            "caption": "Meyer Library mezzanine before its opening, September 1968.",
+            "credit": "CCA Libraries CC-BY-NC 4.0"
+        },
+        "text": {
+            "headline": "Systems Timeline 2014-present",
+            "text": "Systems developed and/or maintained at the CCA Libraries."
+        }
+    },
+    "events": [
+        {
+            "media": {
+                "url": "https://image.slidesharecdn.com/ilspresentation-140730091044-phpapp01/95/automation-and-integrated-library-systems-25-638.jpg",
+                "caption": "",
+                "credit": "Julie Goldman https://www.slideshare.net/juliegoldman9/automation-presentation-37499198",
+                "thumbnail": "img/mllm-thumb.webp"
+            },
+            "start_date": {
+                "month": "6",
+                "day": "8",
+                "year": "2014"
+            },
+            "end_date": {
+                "month": "6",
+                "day": "16",
+                "year": "2016"
+            },
+            "text": {
+                "headline": "Millennium ILS",
+                "text": "Innovative Interfaces ILS"
+            }
+        },
+        {
+            "media": {
+                "url": "https://pbs.twimg.com/profile_images/1009669294035120128/ujir8Gk4_400x400.jpg",
+                "caption": "",
+                "credit": "@EQUELLA https://twitter.com/EQUELLA",
+                "link": "https://openequella.github.io/",
+                "thumbnail": "img/apereo-thumb.jpeg"
+            },
+            "start_date": {
+                "month": "6",
+                "day": "8",
+                "year": "2014"
+            },
+            "end_date": {
+                "month": "6",
+                "day": "1",
+                "year": "2020"
+            },
+            "text": {
+                "headline": "EQUELLA",
+                "text": "Digital archive owned first by independent Australian company, then Pearson, then later open-sourced."
+            }
+        },
+        {
+            "media": {
+                "url": "https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQAUIDe4vP1vEqPb77jhp-XhF0Q5X4pVpJVMPJaPRitbX3ouwvM&usqp=CAU",
+                "caption": "",
+                "credit": "",
+                "link": "https://drupal.org",
+                "thumbnail": "img/drupal-thumb.png"
+            },
+            "start_date": {
+                "month": "6",
+                "day": "8",
+                "year": "2014"
+            },
+            "end_date": {
+                "month": "9",
+                "day": "1",
+                "year": "2017"
+            },
+            "text": {
+                "headline": "Drupal",
+                "text": "CCA was originally on an old, neglected Drupal 6 instance in dire need of an upgrade. It was under-documented and sprawling with content, plus utilizing a few plugins with no clear upgrade path."
+            }
+        },
+        {
+            "media": {
+                "url": "https://blog.springshare.com/wp-content/uploads/2013/06/libguides-icon.png",
+                "caption": "",
+                "credit": "",
+                "link": "https://www.springshare.com",
+                "thumbnail": "img/springshare-thumb.png"
+            },
+            "start_date": {
+                "month": "8",
+                "day": "1",
+                "year": "2014"
+            },
+            "end_date": {
+                "month": "12",
+                "day": "31",
+                "year": "2020"
+            },
+            "text": {
+                "headline": "LibGuides",
+                "text": "I believe CCA had purchased LibGuides just before I started, or recently afterwards, but didn't have any content. We built out a few starter guides and added links from our website early on in my first semester."
+            }
+        },
+        {
+            "media": {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/6/69/Koha_logo_black_and_white.svg",
+                "caption": "",
+                "credit": "",
+                "link": "https://koha-community.org",
+                "thumbnail": "img/koha-thumb.png"
+            },
+            "start_date": {
+                "month": "6",
+                "day": "24",
+                "year": "2016"
+            },
+            "end_date": {
+                "month": "12",
+                "day": "31",
+                "year": "2020"
+            },
+            "text": {
+                "headline": "Koha",
+                "text": "We migrated from Millennium to Koha (supported by ByWater Solutions), one of the largest projects in my entire career at that time. The open-source ILS was a large improvement mostly in terms of the web-based staff client and the complete transparency of its code base and database, which can be queried via SQL reports."
+            }
+        },
+        {
+            "media": {
+                "url": "https://s3.amazonaws.com/libapps/accounts/1252/images/summon-logo.png",
+                "caption": "",
+                "credit": "",
+                "link": "https://www.exlibrisgroup.com/products/summon-library-discovery/"
+            },
+            "start_date": {
+                "month": "9",
+                "day": "7",
+                "year": "2016"
+            },
+            "end_date": {
+                "month": "12",
+                "day": "31",
+                "year": "2020"
+            },
+            "text": {
+                "headline": "Summon",
+                "text": "We added ProQuest's discovery layer immediately after our ILS migration, pushing implementation back to the Fall of 2016 and only giving users access in the Spring of 2017."
+            }
+        },
+        {
+            "media": {
+                "url": "https://moodle.com/wp-content/uploads/2019/06/Moodle-logo-1200x630.png",
+                "caption": "",
+                "credit": "",
+                "link": "https://moodle.org",
+                "thumbnail": "img/moodle-thumb.png"
+            },
+            "start_date": {
+                "month": "4",
+                "day": "21",
+                "year": "2017"
+            },
+            "end_date": {
+                "month": "12",
+                "day": "31",
+                "year": "2020"
+            },
+            "text": {
+                "headline": "Moodle LMS",
+                "text": "We've had the Moodle LMS since I started at CCA, but due to a developer leaving and some staff restructuring the system ended up under my domain. The responsibility was originally framed as being temporary until the original owning department could find someone to take it on, but it became permanent."
+            }
+        },
+        {
+            "media": {
+                "url": "img/wagtail.png",
+                "caption": "",
+                "credit": "",
+                "link": "https://wagtail.io",
+                "thumbnail": "img/wagtail-icon.png"
+            },
+            "start_date": {
+                "month": "6",
+                "day": "16",
+                "year": "2017"
+            },
+            "end_date": {
+                "month": "12",
+                "day": "31",
+                "year": "2020"
+            },
+            "text": {
+                "headline": "Wagtail CMS",
+                "text": "I created a brand new website using Wagtail, a Django-based CMS, with lots of design work from the Torchbox firm. The website had many new features: an Hours app and API, a blog with recent posts highlighted on the home page, an Instagram integration, Elasticsearch for site search and main search box for our discovery layer."
+            }
+        },
+        {
+            "media": {
+                "url": "img/panopto.png",
+                "caption": "",
+                "credit": "",
+                "link": "https://www.panopto.com/",
+                "thumbnail": "img/panopto-icon.png"
+            },
+            "start_date": {
+                "month": "8",
+                "day": "7",
+                "year": "2020"
+            },
+            "end_date": {
+                "month": "12",
+                "day": "31",
+                "year": "2020"
+            },
+            "text": {
+                "headline": "Panopto",
+                "text": "I was one of the main administrators and on the implementation team for Panopto, our video hosting platform. We had a dire need for a video solution other than YouTube, which we couldn't rely on for our students in China. As part of the Panopto team, I helped define our configuration, set up authentication, and oversee the Moodle integration which is one of its main use cases."
+            }
+        }
+    ]
+}
